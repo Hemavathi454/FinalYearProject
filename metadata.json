@@ -1,0 +1,8 @@
+
+{
+  "name": "AgroGuard: Intelligent Leaf Diagnosis",
+  "description": "An AI-powered agricultural platform for detecting plant leaf diseases, analyzing severity, and providing organic treatment recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
